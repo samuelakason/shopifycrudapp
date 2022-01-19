@@ -1,0 +1,36 @@
+body {
+        background: #555;
+        style: center;
+        padding: 150px;
+    }
+
+.content {
+    max-width: 550px;
+    margin: auto;
+    background: white;
+    padding: 150px;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.btn:hover {
+  background-color: #4CAF50;
+  color: white;
+}
