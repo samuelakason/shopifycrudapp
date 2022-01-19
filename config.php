@@ -1,3 +1,5 @@
+<?php
+
 'mysql'  => [
     'driver'    => 'mysql',
     'host'      => env('DB_HOST', 'us-cdbr-east-05.cleardb.net'),
@@ -9,3 +11,6 @@
     'prefix'    => '',
     'strict'    => false,
 ],
+
+?> 
+
