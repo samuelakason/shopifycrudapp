@@ -68,29 +68,29 @@ if (isset($_GET['id'])) {
 
             <legend>Personal information:</legend>
 
-            Product Name :  <input type="text" name="pname" value="<?php echo $pname; ?>"  maxlength="50">
+            Product Name :  <input type="text" name="pname" value="<?php echo $pname; ?>"  maxlength="44">
 
             <input type="hidden" name="id" value="<?php echo $id; ?>">
 
             <br>
             <br>
 
-            Product Description : <input type="text" name="pdesc" value="<?php echo $pdesc; ?>"  maxlength="12">
+            Product Description : <input type="text" name="pdesc" value="<?php echo $pdesc; ?>"  maxlength="44">
 
             <br>
             <br>
 
-            Product Destination : <input type="text" name="pdest" value="<?php echo $pdest; ?>"  maxlength="12">
+            Product Destination : <input type="text" name="pdest" value="<?php echo $pdest; ?>"  maxlength="44">
 
             <br>
             <br>
 
-            Dispatch Date : <input type="text" name="dsent" value="<?php echo $dsent; ?>"  maxlength="12">
+            Dispatch Date : <input type="text" name="dsent" value="<?php echo $dsent; ?>"  maxlength="44">
 
             <br>
             <br>
 
-            Estimated Date Of Delivery : <input type="text" name="darrive" value="<?php echo $darrive; ?>"  maxlength="12">
+            Estimated Date Of Delivery : <input type="text" name="darrive" value="<?php echo $darrive; ?>"  maxlength="44">
 
             <br><br>
 
