@@ -80,7 +80,7 @@ if (isset($_GET['id'])) {
             <br>
             <br>
 
-            Product Destination : <input type="email" name="pdest" value="<?php echo $pdest; ?>">
+            Product Destination : <input type="text" name="pdest" value="<?php echo $pdest; ?>">
 
             <br>
             <br>
