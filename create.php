@@ -73,35 +73,35 @@ include "config.php";
 
     Product Name :
 
-    <input type="text" name="pname"  maxlength="12" required>
+    <input type="text" name="pname"  maxlength="44" required>
 
     <br>
     <br>
 
     Product Description:
 
-    <input type="text" name="pdesc" maxlength="12" required>
+    <input type="text" name="pdesc" maxlength="44" required>
 
     <br>
     <br>
 
     Product Destination:
 
-    <input type="text" name="pdest" maxlength="12" required>
+    <input type="text" name="pdest" maxlength="44" required>
 
     <br>
     <br>
 
     Dispatch Date:
 
-    <input type="datetime-local" name="dsent" maxlength="12" required>
+    <input type="datetime-local" name="dsent" maxlength="44" required>
 
     <br>
     <br>
 
     Estimated Date Of Delivery:
 
-    <input type="datetime-local" name="darrive" maxlength="12" required>
+    <input type="datetime-local" name="darrive" maxlength="44" required>
 
     <br><br>
 
