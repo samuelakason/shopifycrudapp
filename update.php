@@ -60,7 +60,7 @@ if (isset($_GET['id'])) {
 
     ?>
 
-        <h2>User Update Form</h2>
+        <h2>Product Update Form</h2>
 
         <form action="" method="post">
 
